@@ -1,0 +1,8 @@
+opencv-python
+ultralytics
+deep_sort_realtime
+easyocr
+openai
+gTTS==2.2.3
+moviepy==1.0.3
+streamlit
